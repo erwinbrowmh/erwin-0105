@@ -9,7 +9,7 @@ Aplicación de apuestas en carreras de caracoles construida con **React + TypeSc
 ## 📦 Estructura del proyecto
 
 ```
-SISU/
+erwin-0105/
 ├── backend/          # Express API — SnailPay mock
 │   ├── src/
 │   │   ├── index.ts
