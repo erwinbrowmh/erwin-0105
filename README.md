@@ -2,6 +2,8 @@
 
 Aplicación de apuestas en carreras de caracoles construida con **React + TypeScript** (frontend) y **Express + TypeScript** (backend).
 
+**Repositorio del proyecto:** [https://github.com/erwinbrowmh/erwin-0105](https://github.com/erwinbrowmh/erwin-0105)
+
 ---
 
 ## 📦 Estructura del proyecto
